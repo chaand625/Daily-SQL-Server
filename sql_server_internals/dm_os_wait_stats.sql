@@ -8,4 +8,6 @@ FROM
 
 /*
     Statistics are collected from the time of the last SQL Server restart.
+
+    In most cases, signal waits should not exceed 10% to 15% of the total wait time.
 */
